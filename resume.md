@@ -8,18 +8,17 @@ owills@mines.edu
 
 ![Olivia Wills] (~/Pictures/headshot.jpg)
 
-##Education
+## Education
 
-###Colorado School of Mines - Current Student
+### Colorado School of Mines - Current Student
 
 - Pursuing a BA in **Geophysics** with a minor in **Physics**
 
-###Wheat Ridge High School 
+### Wheat Ridge High School 
 
 - Graduated in 2022 with a 4.0 GPA
 
-##Experience
+## Experience
 
 - [Colorado School of Mines](https://ww
 w.mines.edu) PHGN100 and PHGN200 Teaching Assitant
-
