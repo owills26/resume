@@ -20,4 +20,4 @@ owills@mines.edu
 
 ## Experience
 
-- [Colorado School of Mines](https://www.mines.edu) PHGN100 and PHGN200 Teaching Assitant
+- [Colorado School of Mines](https://www.mines.edu) PHGN100 and PHGN200 Teaching Assistant
