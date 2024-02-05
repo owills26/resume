@@ -6,7 +6,7 @@ Golden, CO
 
 owills@mines.edu
 
-![Olivia Wills] (~/Pictures/headshot.jpg)
+<img src= headshot.jpg width="200" height="300">
 
 ## Education
 
